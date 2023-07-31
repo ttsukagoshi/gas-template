@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+
+# System files
+.DS_Store
+
+# Jest
+coverage/
+
+# clasp
+# You might want to uncomment the following line if you're developing a public Google Apps Script project:
+# .clasp.json
