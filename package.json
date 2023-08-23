@@ -2,6 +2,9 @@
   "name": "gas-template",
   "version": "1.0.0",
   "description": "A personal template repository for creating a local dev environment using Google Apps Script and clasp",
+  "engines": {
+    "node": ">=16.0.0"
+  },
   "main": "src/sample.js",
   "directories": {
     "test": "tests"
