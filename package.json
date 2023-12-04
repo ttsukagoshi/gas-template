@@ -1,6 +1,6 @@
 {
   "name": "gas-template",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A personal template repository for creating a local dev environment using Google Apps Script and clasp",
   "engines": {
     "node": ">=16.0.0"
