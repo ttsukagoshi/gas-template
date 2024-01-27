@@ -23,7 +23,7 @@ jobs:
 
       - uses: actions/setup-node@v3
         with:
-          node-version: '16'
+          node-version: '16' # Check if this node-version is compatible with the latest version of clasp
 
       - name: Cache node modules
         uses: actions/cache@v3.3.1
