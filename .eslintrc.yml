@@ -11,6 +11,7 @@
 env:
   jest: true
   node: true
+  googleappsscript/googleappsscript: true
 
 ###############
 # Parser vars #
@@ -29,6 +30,7 @@ extends:
   - 'plugin:@typescript-eslint/recommended'
 plugins:
   - '@typescript-eslint'
+  - 'googleappsscript'
 #########
 # Rules #
 #########
