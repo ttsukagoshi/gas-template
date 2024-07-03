@@ -3,5 +3,13 @@
   "semi": true,
   "trailingComma": "all",
   "singleQuote": true,
-  "endOfLine": "lf"
+  "endOfLine": "lf",
+  "overrides": [
+    {
+      "files": ["tsconfig.json"],
+      "options": {
+        "trailingComma": "none"
+      }
+    }
+  ]
 }
