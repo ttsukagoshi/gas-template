@@ -3,14 +3,14 @@
   "version": "2.1.0",
   "description": "A personal template repository for creating a local dev environment using Google Apps Script and clasp",
   "engines": {
-    "node": ">=16.0.0"
+    "node": ">=18.20.0 || >=20.15.0"
   },
   "main": "src/sample.js",
   "directories": {
     "test": "tests"
   },
   "scripts": {
-    "test": "jest"
+    "test": "npx jest"
   },
   "repository": {
     "type": "git",
