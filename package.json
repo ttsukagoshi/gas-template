@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/ttsukagoshi/gas-template#readme",
   "devDependencies": {
-    "@google/clasp": "^2.4.2",
+    "@google/clasp": "^2.5.0",
     "@types/google-apps-script": "^1.0.83",
     "@types/jest": "^29.5.12",
     "@typescript-eslint/eslint-plugin": "^7.15.0",
